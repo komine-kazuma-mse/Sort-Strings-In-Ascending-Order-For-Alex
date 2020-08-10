@@ -1,0 +1,9 @@
+StarWars	19770525	GeorgeLucas	86
+Jaws	19750620	StevenSpielberg	50
+ET	19821204	StevenSpielberg	82
+HarryPotter	20011116	ChrisColumbus	88
+JurassicPark	19930611	StevenSpielberg	90
+BackToTheFuture	19850703	RobertLeeZemeckis	87
+TheTerminator	19841026	JamesFrancisCameron	55
+RaidersOfTheLostArk	19810612	StevenSpielberg	74
+
